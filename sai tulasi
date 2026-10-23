@@ -1,0 +1,21 @@
+1. Open JavaFX Scene Builder.
+2. Create a new JavaFX FXML file.
+3. Drag and drop a Label from the Controls section onto the layout.
+4. In the Properties panel, set the Label text to Welcome to JavaFX.
+5. Drag and drop an ImageView from the Library section onto the layout.
+6. In the Properties panel, select an image file for the ImageView.
+7. Adjust the size and position of both components.
+8. Save the FXML file and preview the GUI.
+Expected Output
+Welcome to JavaFX
+
+
+
+
+
+
+
+
+
+Sample GUI: Label displaying text and ImageView displaying an image.
+Result: A JavaFX GUI containing a Label and an ImageView is created successfully using Scene Builder without writing code.
